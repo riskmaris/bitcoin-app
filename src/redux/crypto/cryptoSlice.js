@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-const API_URL = 'https://api.coinranking.com/v2/coins/ED74AC76-3969-43B3-991B-331AE63672DD';
+const API_URL = '';
 
 const initialState = {
   cryptos: [],
