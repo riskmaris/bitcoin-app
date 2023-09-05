@@ -3,7 +3,7 @@ import { useSelector } from 'react-redux';
 import navIcon from '../../assets/images/back.svg';
 import './navigation.css';
 import microphoneLogo from '../../assets/images/microphone.svg';
-import settinLogo from '../../assets/images/setting.svg';
+import settingLogo from '../../assets/images/setting.svg';
 
 const Nav = () => {
   const { title } = useSelector((state) => state.crypto);
@@ -18,7 +18,7 @@ const Nav = () => {
       <span className="nav-title">{title}</span>
       <span className="nav-icon">
         <img src={microphoneLogo} alt="" />
-        <img src={settinLogo} alt="" />
+        <img src={settingLogo} alt="" />
       </span>
     </nav>
   );
