@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useSelector } from 'react-redux';
 import PropTypes from 'prop-types';
-import Coin from '../Coin/Coin.js';
+import Coin from '../Coin/Coin';
 import './home.css';
 
 const CoinsList = ({ coins }) => {
