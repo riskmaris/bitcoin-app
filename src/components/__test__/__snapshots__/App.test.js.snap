@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="header"
+    >
+      <nav
+        class="nav"
+      >
+        <span
+          class="logo"
+        >
+          <a
+            href="/"
+          >
+            <img
+              alt="logo"
+              class="back-button"
+              src="back.svg"
+            />
+          </a>
+        </span>
+        <span
+          class="nav-title"
+        >
+          Crypto Trend
+        </span>
+        <span
+          class="nav-icon"
+        >
+          <img
+            alt=""
+            src="microphone.svg"
+          />
+          <img
+            alt=""
+            src="setting.svg"
+          />
+        </span>
+      </nav>
+    </div>
+    <div
+      class="container"
+    >
+      <div
+        class="content-container"
+        data-testid="home-component"
+      >
+        <div
+          class="loading-container"
+          data-testid="loading-container"
+        >
+          <span />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
