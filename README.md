@@ -58,7 +58,7 @@ API Yelp fuction
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://bit-coin-app.onrender.com)
-  [Video Presentation](https://www.loom.com/share/1cf7fe824cbf451b9675fb0a658afc71)
+  [Video Presentation](https://www.loom.com/share/ec05d0a49f2a481983433091b8bcb0c2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
