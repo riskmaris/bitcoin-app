@@ -57,8 +57,8 @@ API Yelp fuction
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://bitcoin-e90u.onrender.com)
-  [Video Presentation]()
+- [Live Demo Link](https://bit-coin-app.onrender.com)
+  [Video Presentation](https://www.loom.com/share/1cf7fe824cbf451b9675fb0a658afc71)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +157,7 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Original Design Idea by: [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
-- I would like to thank Microverse
+- I would like to thank Microverse and my coding partners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
