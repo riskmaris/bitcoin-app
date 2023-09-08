@@ -78,7 +78,11 @@ Example command:
 1.use a browser
 2.use cable internet
 ```
+###setup
 
+Login to your GitHub account. Clone this repository to your desired folder:
+
+cd my-folder git clone (https://github.com/riskmaris/bitcoin-app)
 ### Install
 
 Install this project with:
